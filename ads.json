@@ -1,0 +1,41 @@
+{
+    "test-agama-project": {
+        "projectName": "test-agama-project",
+        "description": "test",
+        "type": "community",
+        "author": "desaioss",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/desaioss/agama-dev",
+        "githubUri": "https://github.com/desaioss/agama-dev",
+        "license": "apache-2.0",
+        "lastUpdated": "1734427458881",
+        "tags": [
+            "test"
+        ],
+        "noDirectLaunch": [],
+        "configs": {
+            "co.acme.password": {},
+            "": {}
+        },
+        "name": "test-agama-project"
+    },
+    "test-password-auth": {
+        "projectName": "test-password-auth",
+        "description": "test password auth",
+        "type": "community",
+        "author": "desaioss",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/desaioss/agama-dev",
+        "githubUri": "https://github.com/desaioss/agama-dev",
+        "license": "apache-2.0",
+        "lastUpdated": "1735519900628",
+        "tags": [
+            "password"
+        ],
+        "noDirectLaunch": [],
+        "configs": {
+            "co.acme.password": {}
+        },
+        "name": "test-password-auth"
+    }
+}
